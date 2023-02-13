@@ -33,9 +33,9 @@ body {
 }
 
 .page {
-  max-width: 33rem;
+  max-width: 36rem;
+  margin: auto;
   flex-direction: column;
-  margin: 0 auto;
   display: flex;
 }
 
