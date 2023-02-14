@@ -33,7 +33,7 @@ body {
 }
 
 .page {
-  max-width: 39rem;
+  max-width: 100vw;
  
   margin: auto;
   flex-direction: column;
